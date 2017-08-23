@@ -1,0 +1,13 @@
+{
+  "name": "froggyfrog-membership",
+  "author": "Rahul Singh",
+  "description": "A Membership system pattern after Devise",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "*",
+    "grunt-contrib-jshint": "*",
+    "grunt-contrib-watch": "*",
+    "mocha": "^3.5.0",
+    "should": "^11.2.1"
+  }
+}

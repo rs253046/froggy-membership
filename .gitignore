@@ -1,0 +1,4 @@
+.idea/
+.DS.Store
+node_modules
+**/*.swp
